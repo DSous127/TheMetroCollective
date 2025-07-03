@@ -6,7 +6,7 @@ export default function IndexPage() {
     <>
       <Head>
         <title>The Metro Collective</title>
-        <meta name="description" content="Private Lending Consulting Group | Backed by Metro Mortgage Group" />
+        <meta name="description" content="Boutique Real Estate Capital Advisory | Metro Mortgage Group" />
       </Head>
       <Home />
     </>
