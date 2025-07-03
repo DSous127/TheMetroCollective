@@ -1,5 +1,5 @@
 {
-  "name": "the-metro-collective-site",
+  "name": "metro-collective-upgraded",
   "version": "1.0.0",
   "scripts": {
     "dev": "next dev",
